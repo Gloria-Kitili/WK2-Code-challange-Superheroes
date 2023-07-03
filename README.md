@@ -46,8 +46,7 @@ rails s
 http://localhost:3000
 
 ```
-### Deployment link
-https://superheroes-8lnf.onrender.com
+
 
 ### Validations
 Add validations to the `HeroPower` model:
@@ -227,7 +226,7 @@ JSON data, along with the appropriate HTTP status code:
 ```
 ## Authors
 Project contributed to and maintained by:
-- [Cindy Misoi](https://github.com/CindyMisoi)
+- [Gloria Kitili](https://github.com/Gloria-Kitili)
 
 ## License
 
